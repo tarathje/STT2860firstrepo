@@ -1,2 +1,2 @@
 # STT2860firstrepo
-First repo
+This is my first practice repository
